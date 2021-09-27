@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+body{
+    background-color: #ffffff;
+}
+
+h1{
+    color:white;
+    font-family: "Jua";
+    text-shadow:
+    #000 -1px -1px,
+    #000 1px -1px,
+    #000 -1px 1px,
+    #000 1px 1px,
+    #000 -1.15px -1.15px,
+    #000 1.15px -1.15px,
+    #000 -1.15px 1.15px,
+    #000 1.15px 1.15px,
+    #000 -1.25px -1.25px,
+    #000 1.25px -1.25px,
+    #000 -1.25px 1.25px,
+    #000 1.25px 1.25px,
+    #000 -1.35px -1.35px,
+    #000 1.35px -1.35px,
+    #000 -1.35px 1.35px,
+    #000 1.35px 1.35px,
+    #000 -1.45px -1.45px,
+    #000 1.45px -1.45px,
+    #000 -1.45px 1.45px,
+    #000 1.45px 1.45px,
+    #000 -1.5px -1.5px,
+    #000 1.5px -1.5px,
+    #000 -1.5px 1.5px,
+    #000 1.5px 1.5px,
+    #000 -1.65px -1.65px,
+    #000 1.65px -1.65px,
+    #000 -1.65px 1.65px,
+    #000 1.65px 1.65px,
+    #000 -1.75px -1.75px,
+    #000 1.75px -1.75px,
+    #000 -1.75px 1.75px,
+    #000 1.75px 1.75px,
+    #000 -1.85px -1.85px,
+    #000 1.85px -1.85px,
+    #000 -1.85px 1.85px,
+    #000 1.85px 1.85px,
+    #000 -2px -2px,
+    #000 2px -2px,
+    #000 -2px 2px,
+    #000 2px 2px;
+
+    text-align: center;
+    position: relative;
+}
